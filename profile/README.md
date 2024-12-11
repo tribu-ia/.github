@@ -34,6 +34,31 @@ Imagina un espacio donde la curiosidad y el conocimiento convergen, donde expert
 
 ---
 
+## Iniciativas
+
+En Tribu IA nos encanta explorar, aprender y compartir conocimiento a través de diversas iniciativas que abordan diferentes aspectos de la inteligencia artificial. Desde discusiones filosóficas hasta la experimentación práctica con las últimas herramientas de IA, estas son algunas de nuestras principales iniciativas:
+
+- **Conversatorios y Talleres:**  
+  Espacios donde discutimos los avances más recientes en IA, compartimos perspectivas técnicas y éticas, y aprendemos de expertos en el campo.
+
+- **AI Tinkerers:**  
+  Un laboratorio práctico donde entusiastas y profesionales trabajan en pequeños proyectos de IA, experimentando con ideas y herramientas para crear soluciones innovadoras.
+
+- **Podcast Tribu IA:**  
+  Episodios diseñados para compartir historias, tendencias y aprendizajes sobre inteligencia artificial, desde lo más técnico hasta lo filosófico.
+
+- **Educación y Mentorías:**  
+  Programas dedicados a enseñar conceptos básicos y avanzados de IA, y a guiar a los interesados en cómo iniciar o crecer en este apasionante campo.
+  
+- **Investigación de Agentes:**  
+  Un proyecto innovador en el que exploramos el futuro de los agentes de IA. Los participantes investigan, prueban y comparten hallazgos sobre herramientas y frameworks, ayudando a la comunidad a entender su potencial y a identificar oportunidades para nuevos productos.  
+  [Unirte al mundo de agentes][agentes-ia-repositorio].
+  
+Estas iniciativas nos permiten abordar la IA desde múltiples ángulos y niveles de experiencia, haciendo de Tribu IA un espacio dinámico y enriquecedor para todos.
+
+¿Tienes una idea para una nueva iniciativa? ¡Contáctanos y hazla realidad con el apoyo de la comunidad!
+---
+
 ## ¿Cómo Unirte?
 
 Estamos construyendo una comunidad donde todos son bienvenidos. Te invitamos a unirte a nosotros para aprender, compartir y crecer juntos en esta apasionante aventura.
@@ -48,3 +73,5 @@ Estamos construyendo una comunidad donde todos son bienvenidos. Te invitamos a u
 <!-- Links -->
 [tribu-link]: https://chat.openai.com/g/g-bQu7DJ8cd-somos-tribu-ia-colombia
 [registro-link]: https://forms.gle/tRytHcxqXY2ddWG3A
+[agentes-ia-repositorio]: https://github.com/tribu-ia/documentacion-investigacion-agentes-ia
+
