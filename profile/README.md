@@ -33,7 +33,9 @@ Nuestra comunidad opera principalmente a través de más de **30 grupos temátic
 ## Únete a Nosotros
 
 Sé parte de esta comunidad vibrante y colabora en construir el futuro de la IA en Latinoamérica:  
-- **WhatsApp:** [Únete a nuestros grupos temáticos][tribu-link].  
+
+- **WhatsApp:** [Únete a nuestros grupos temáticos][tribu-link].
+- **Nuestro Gpt:** [Habla con nuestro GPT][wp-link].
 - **Registro:** [Llena nuestro formulario][registro-link].  
 
 ¡Explora cómo la IA puede transformar el mundo con nosotros!
@@ -45,3 +47,4 @@ Sé parte de esta comunidad vibrante y colabora en construir el futuro de la IA 
 [registro-link]: https://forms.gle/tRytHcxqXY2ddWG3A
 [agentes-ia-repositorio]: https://github.com/tribu-ia/documentacion-investigacion-agentes-ia
 [sitio-oficial]: https://tribuia.org
+[wp-link]: https://chat.whatsapp.com/JX7ctC1P16s2hfoYrcJ0a9
