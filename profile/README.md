@@ -34,8 +34,8 @@ Nuestra comunidad opera principalmente a través de más de **30 grupos temátic
 
 Sé parte de esta comunidad vibrante y colabora en construir el futuro de la IA en Latinoamérica:  
 
-- **WhatsApp:** [Únete a nuestros grupos temáticos][tribu-link].
-- **Nuestro Gpt:** [Habla con nuestro GPT][wp-link].
+- **WhatsApp:** [Únete a nuestros grupos temáticos][wp-link].
+- **Nuestro Gpt:** [Habla con nuestro GPT][tribu-link].
 - **Registro:** [Llena nuestro formulario][registro-link].  
 
 ¡Explora cómo la IA puede transformar el mundo con nosotros!
