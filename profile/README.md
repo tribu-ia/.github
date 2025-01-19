@@ -27,7 +27,7 @@ Nuestra comunidad opera principalmente a través de más de **30 grupos temátic
 - **Conversatorios:** Espacios para analizar el impacto de la IA en la sociedad y la economía.  
 - **Podcast Tribu IA:** Historias, tendencias y aprendizajes sobre IA.  
 - **Investigación de Agentes:** Exploramos el futuro de los agentes de IA, documentando hallazgos para la comunidad. [Descubre más][agentes-ia-repositorio].
-
+- **Estudio de LLMs**: En 6 meses analizamos 12 papers fundamentales, con sesiones quincenales, expertos invitados y desafíos de implementación mensuales. [Descubre más][papers-git-url].
 ---
 
 ## Únete a Nosotros
@@ -48,3 +48,4 @@ Sé parte de esta comunidad vibrante y colabora en construir el futuro de la IA 
 [agentes-ia-repositorio]: https://github.com/tribu-ia/documentacion-investigacion-agentes-ia
 [sitio-oficial]: https://tribuia.org
 [wp-link]: https://chat.whatsapp.com/JX7ctC1P16s2hfoYrcJ0a9
+[papers-git-url]: https://github.com/tribu-ia/.github/blob/main/ESTRUCTURA_PAPERS.md
