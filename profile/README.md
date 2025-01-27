@@ -1,4 +1,4 @@
-# Bienvenidos a Tribu IA Colombia
+# Bienvenidos a Tribu IA
 
 Somos una comunidad abierta de voluntarios dedicada a la adopción responsable de la inteligencia artificial, con el objetivo de generar impacto positivo en Latinoamérica a través de la educación, la innovación y la conexión entre personas.
 
