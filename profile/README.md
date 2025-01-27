@@ -6,7 +6,7 @@ Somos una comunidad abierta de voluntarios dedicada a la adopción responsable d
 
 ## ¿Quiénes Somos?
 
-Tribu IA Colombia conecta a más de 1.300 personas de diversos perfiles, desde estudiantes y amas de casa hasta expertos técnicos, empresarios y artistas. Promovemos un espacio para aprender y compartir sobre inteligencia artificial, abordando tanto temas técnicos como éticos y sociales.
+Tribu IA conecta a más de 1.300 personas de diversos perfiles, desde estudiantes y amas de casa hasta expertos técnicos, empresarios y artistas. Promovemos un espacio para aprender y compartir sobre inteligencia artificial, abordando tanto temas técnicos como éticos y sociales.
 
 Nuestra comunidad opera principalmente a través de más de **30 grupos temáticos en WhatsApp**, donde exploramos aplicaciones de IA en salud, arte, regulación y más. Aquí puedes aprender, preguntar y compartir tus conocimientos.
 [Sitio oficial][sitio-oficial] 
